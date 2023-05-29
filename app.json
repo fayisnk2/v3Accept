@@ -8,7 +8,7 @@
     ],
     
     "repository": "https://github.com/ImDenuwan/Auto-Approve-Bot",
-    "logo":"https://telegra.ph/file/a782e3bbbe40df8a4bb67.jpg",   
+    "logo":"https://telegra.ph/file/9bc0a8b426028870a6581.jpg",   
     
     "env": {
     "API_ID": {
@@ -41,7 +41,7 @@
     "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   },
     "buildpacks": [
